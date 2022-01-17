@@ -1,0 +1,8 @@
+# Sample ss-payout configuration file.
+# https://github.com/glevand/ss-payout
+#
+
+dob_full="${dob_full:-1976.07.04}"
+monthly="${monthly:-1234}"
+age_start="${age_start:-70}"
+age_end="${age_end:-90}"
